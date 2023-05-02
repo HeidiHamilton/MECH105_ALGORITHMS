@@ -1,0 +1,1 @@
+This algorithm uses the bisection method. The bisection method is a numerical algorithm that finds the root of a function by repeatedly dividing an interval in half and checking which half contains the root. This is done until a desired level of accuracy is reached.
