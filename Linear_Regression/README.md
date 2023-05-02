@@ -2,11 +2,10 @@ This is an algorithm for Linear Regression. Linear regression is a statistical m
 
 Inputs:
 
-1. A set of data points consisting of one or more independent variables and a dependent variable
-2. A model type, either "simple" for a single independent variable or "multiple" for multiple independent variables
-3. A method for fitting the model, such as ordinary least squares (OLS)
+1. x: x-values for our data set
+2. y: y-values for our data set
 
 Outputs:
-
-1. The coefficients of the linear equation, which describe the slope and intercept of the line
-2. The R-squared value, which indicates the goodness of fit of the model
+1. Slope from the linear regression y=mx+b
+2. Intercept from the linear regression y=mx+b
+3. Rsquared: (coefficient of determination)
