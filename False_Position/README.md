@@ -7,4 +7,6 @@ Inputs:
 3. A tolerance level for determining when the approximation is "close enough" to the root
 
 Outputs:
-An estimate of the root of the function that satisfies the specified tolerance
+1. An estimate of the root of the function that satisfies the specified tolerance
+2. Approximate relative error
+3. Number of iterations used
