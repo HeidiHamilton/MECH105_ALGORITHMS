@@ -9,3 +9,5 @@ Outputs:
 1. Slope from the linear regression y=mx+b
 2. Intercept from the linear regression y=mx+b
 3. Rsquared: (coefficient of determination)
+
+**This algorithm can be used to model the relationship between two variables. It is often used to predict the value of one variable based on the value of another variable. This lineear regression code can be used to estimate values of a given function when related through a linear relationship.**
