@@ -11,3 +11,5 @@ The code will output the following:
 1. The lower triangular matrix L, stored in the lower triangle of the factorized matrix output
 2. The upper triangular matrix U, stored in the upper triangle of the factorized matrix output
 3. A permutation matrix P, which keeps track of the row exchanges performed during pivoting to ensure numerical stability
+
+**This algorithm is often used in solving systems of linear equations, especially for large matrices. Once the LU decomposition is obtained, the system of equations can be solved efficiently by forward and backward substitution. This is because triangular matrices are easy to solve using these methods. It is also used in many numerical algorithms such as the computation of determinants and matrix inversion. **
