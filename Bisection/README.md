@@ -7,3 +7,5 @@ Inputs needed:
 
 Outputs produced:
 - An estimate of the root of the function within the given interval that satisfies the specified tolerance.
+
+This algorithm can be used to solve for the root of the given function.
