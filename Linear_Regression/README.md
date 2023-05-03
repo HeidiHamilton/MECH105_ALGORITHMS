@@ -10,4 +10,4 @@ Outputs:
 2. Intercept from the linear regression y=mx+b
 3. Rsquared: (coefficient of determination)
 
-**This algorithm can be used to model the relationship between two variables. It is often used to predict the value of one variable based on the value of another variable. This lineear regression code can be used to estimate values of a given function when related through a linear relationship.**
+**This algorithm can be used to model the relationship between two variables. It is often used to predict the value of one variable based on the value of another variable. This algorithm can be used to predict the price of a particular stock based on its historical performance, as well as the performance of the overall stock market. In this case, the stock price would be the dependent variable, while the historical performance of the stock and the overall stock market would be the independent variables. We could collect historical data on the stock price, the performance of the stock, and the performance of the overall stock market, and then use linear regression to model the relationship between these variables..**
