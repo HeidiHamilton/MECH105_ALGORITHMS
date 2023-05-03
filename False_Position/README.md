@@ -10,3 +10,5 @@ Outputs:
 1. An estimate of the root of the function that satisfies the specified tolerance
 2. Approximate relative error
 3. Number of iterations used
+
+**This algorithm can be used to solve for the root of the given function.**
