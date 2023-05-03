@@ -9,3 +9,5 @@ Inputs:
 Outputs:
 
 1.  An estimate of the definite integral of the function over the specified interval
+
+**This algorithm can be used to approximate the area under the curve of a function using a quadratic polynomial. The curve is divided into an even amount of equally spaced intervals, and within each interval, a quadratic function is fitted to approximate the curve. It uses a weighted average of the function values at the endpoints and midpoint of each sub-interval to calculate the area of the parabolic approximation.**
